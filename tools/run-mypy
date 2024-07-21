@@ -13,7 +13,7 @@ TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(os.path.dirname(TOOLS_DIR))
 
 sys.path.append(os.path.dirname(TOOLS_DIR))
-aaaa
+dsd
 exclude = [
     # Excluded because it's third-party code.
     "zulip/integrations/perforce/git_p4.py",
